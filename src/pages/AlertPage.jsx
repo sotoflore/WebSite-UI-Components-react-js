@@ -11,8 +11,10 @@ const AlertPage = () => {
         <div className="bg-white px-8 py-4 rounded-xl border-2 border-gray-300 shadow">
             <Title title="Alertas"/>
             <p className='py-2'>
-                Una gran variedad de ejemplos de alertas disponibles hechas con Tailwindin CSS, puedes personalizar según tus necesidades específicas
-                y usarlo en tus proyectos web.
+                Las alertas son elementos fundamentales en cualquier interfaz de usuario para 
+                comunicar información importante o para notificar al usuario sobre eventos críticos. 
+                Nuestros componentes de alertas están diseñados para ser flexibles, personalizables 
+                y fáciles de integrar en cualquier proyecto.
             </p>
         </div>
         <Alert/>

@@ -13,7 +13,7 @@ const Navbar = () => {
                 </NavLink>
                 <div className="inline-flex items-center">
                     <NavLink to="componentes/introduccion" className="pe-5 text-blue-700 font-bold hidden sm:inline-block">Componentes</NavLink>
-                    <NavLink to="https://github.com/sotoflore" target="_blank"  rel="noopener noreferrer"><IconGithub/></NavLink>
+                    <NavLink to="https://github.com/sotoflore/WebSite-UI-Components/tree/main" target="_blank"  rel="noopener noreferrer"><IconGithub/></NavLink>
                     <NavLink to="https://www.linkedin.com/in/francisco-sf/" target="_blank" rel="noopener noreferrer"><IconLinkedin/></NavLink>
                 </div>
             </div>

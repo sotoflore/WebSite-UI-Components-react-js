@@ -9,8 +9,10 @@ const PaginationPage = () => {
         <div className="bg-white px-8 py-4 rounded-xl border-2 border-gray-300 shadow">
             <Title title="Paginación"/>
             <p className='py-2'>
-                Una gran variedad de ejemplos de alertas disponibles hechas con Tailwindin CSS, puedes personalizar según tus necesidades específicas
-                y usarlo en tus proyectos web.
+                La paginación es un elemento crucial en la navegación de sitios web que tienen 
+                mucho contenido para mostrar. Nuestros componentes de paginación están 
+                diseñados para una integración fácil de usar, permitiendo a 
+                los usuarios explorar grandes conjuntos de datos de manera eficiente.
             </p>
         </div>
         <Pagination/>

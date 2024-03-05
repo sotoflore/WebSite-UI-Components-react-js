@@ -11,8 +11,10 @@ const ButtonPage = () => {
         <div className="bg-white px-8 py-4 rounded-xl border-2 border-gray-300 shadow">
             <Title title="Botones"/>
             <p className='py-2'>
-                Una gran variedad de ejemplos de alertas disponibles hechas con Tailwindin CSS, puedes personalizar según tus necesidades específicas
-                y usarlo en tus proyectos web.
+                Los botones son elementos fundamentales en cualquier interfaz de usuario, 
+                utilizados para acciones, enlaces, formularios y más. 
+                Nuestros componentes de botones están diseñados para ser altamente personalizables, 
+                accesibles y fáciles de integrar en cualquier proyecto.
             </p>
         </div>
         <ButtonIcon/>

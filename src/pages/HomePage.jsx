@@ -20,9 +20,9 @@ const HomePage = () => {
         <>
             <section className="flex items-center justify-center mt-36 mb-10 flex-col md:flex-row lg:mt-32 lg:mb-20">
                 <div data-aos="fade-right" data-aos-duration="1000" className="w-full lg:w-1/2">
-                    <h4 className="text-blue-600 font-semibold text-2xl">20+ UI Components</h4>
+                    <h4 className="text-blue-600 font-semibold text-2xl">+20 UI Components</h4>
                     <h1 className='text-gray-900 text-4xl font-black lg:text-6xl'>Listos Para usar en Cualquier Proyecto Web.</h1>
-                    <p className='mb-5 my-2 text-xl text-gray-600'>Todos los componentes están basados en Tailwind CSS.</p>
+                    <p className='mb-5 my-2 text-xl text-gray-800'>Todos los componentes están basados en Tailwind CSS.</p>
                     <Button/>
                 </div>
                 <div data-aos="fade-up" data-aos-duration="1000" className="w-full pt-5 md:pt-0 md:ps-4 lg:w-1/2 lg:ps-10">
@@ -32,12 +32,12 @@ const HomePage = () => {
             <section>
                 <div className="flex flex-wrap w-full mb-10 lg:mb-20">
                     <div className="lg:w-1/2 w-full mb-6 lg:mb-0">
-                        <h2 className="sm:text-3xl text-2xl font-medium mb-2 text-gray-900">Tecnologías de Uso</h2>
-                        <div className="h-1 w-28 bg-blue-500 rounded" />
+                        <h2 className="sm:text-3xl text-2xl font-bold mb-1 text-gray-900">Donde Usarlos</h2>
+                        <div className="h-1 w-32 bg-blue-500 rounded" />
                     </div>
-                    <p className="lg:w-1/2 w-full leading-relaxed text-gray-600">
-                        Estos componentes pueden ser utilizados con estas Tecnologías para crear
-                        páginas web tradicionales y  desarrollo de aplicaciones web. 
+                    <p className="lg:w-1/2 w-full leading-relaxed text-gray-800">
+                        Estos componentes pueden ser utilizados en tecnologías como React, Vue, Angular, Next, para la creación de
+                        Páginas Web, Landing Pages y desarrollo de Aplicaciones Web. 
                     </p>
                 </div>
                 <div data-aos="fade-up"  data-aos-duration="1000" className="flex flex-wrap -m-4 text-center">
@@ -51,7 +51,7 @@ const HomePage = () => {
                 <div className="text-center my-14 md:my-16 lg:mt-24 lg:mb-20">
                     <h2 className="sm:text-3xl text-2xl font-bold text-gray-900 mb-4">Componentes Tailwind CSS</h2>
                     <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">
-                        Descubre la colección de componentes de código abierto, todos ellos creados utilizando las versátiles clases de utilidad de Tailwind CSS.
+                        Explora nuestra colección de componentes de código abierto, todos ellos creados utilizando las versátiles clases de utilidad de Tailwind CSS.
                     </p>
                     <div className="flex mt-3 justify-center">
                         <div className="w-24 h-1 rounded-full bg-blue-500 inline-flex" />

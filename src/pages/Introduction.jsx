@@ -59,10 +59,8 @@ const Introduction = () => {
         <div className='col-span-4 lg:col-span-3 lg:ps-10'>
             <h1 className='text-2xl pt-3 text-center font-black text-blue-500 lg:text-4xl lg:pt-0'>Componentes de Código Abierto de Tailwind CSS en UI Components</h1>
             <p className='py-5'>
-                Se ofrece una selección de componentes CSS gratuitos de Tailwind que puedes 
-                aprovechar en tu próximo proyecto. 
-                Con una amplia gama de opciones, puedes construir tu próximo sitio web de marketing, 
-                panel de administración, tienda en línea y mucho más.
+                Acelera tu flujo de trabajo y eleva tu diseño con una amplia selección de componentes 
+                gratuitos basados en Tailwind cuidadosamente seleccionados para tus necesidades. 
             </p>
             <h2 className='text-3xl font-semibold'>Empezando</h2>
             <p className='pt-2 pb-5'>Para comenzar a utilizar los componentes de Tailwind CSS en tu proyecto, sigue estos pasos:</p>

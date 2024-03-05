@@ -8,8 +8,10 @@ const BannerPage = () => {
         <div className="bg-white px-8 py-4 rounded-xl border-2 border-gray-300 shadow">
             <Title title="Banners"/>
             <p className='py-2'>
-                Una gran variedad de ejemplos de alertas disponibles hechas con Tailwindin CSS, puedes personalizar según tus necesidades específicas
-                y usarlo en tus proyectos web.
+                Los banners son elementos visuales llamativos que se utilizan para destacar 
+                información importante, promociones, mensajes de bienvenida y mucho más en una 
+                página web. Nuestros componentes de banners están diseñados para ser versátiles, 
+                atractivos y fáciles de integrar en cualquier proyecto.
             </p>
         </div>
         <Banner/>

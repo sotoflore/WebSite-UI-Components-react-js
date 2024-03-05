@@ -9,8 +9,10 @@ const ButtonGroupPage = () => {
         <div className="bg-white px-8 py-4 rounded-xl border-2 border-gray-300 shadow">
             <Title title="Grupo de Botones"/>
             <p className='py-2'>
-                Una gran variedad de ejemplos de alertas disponibles hechas con Tailwindin CSS, puedes personalizar según tus necesidades específicas
-                y usarlo en tus proyectos web.
+                Los grupos de botones son conjuntos de botones relacionados que se utilizan para 
+                permitir a los usuarios seleccionar una opción entre varias alternativas. 
+                Nuestros componentes de grupos de botones están diseñados para ofrecer flexibilidad, 
+                accesibilidad y facilidad de uso en diferentes contextos y proyectos.
             </p>
         </div>
         <ButtonGroup/>

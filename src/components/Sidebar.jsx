@@ -18,7 +18,7 @@ const Sidebar = () => {
     ];
    
     return(
-        <aside className="top-24 lg:h-[30rem]  col-span-4 lg:sticky lg:top-32 lg:col-span-1">
+        <aside className="top-24 lg:h-[26rem]  col-span-4 lg:sticky lg:top-32 lg:col-span-1">
             <ul className="h-full w-full flex overflow-x-auto lg:overflow-y-scroll lg:flex-col">
                 {
                     paths.map((path, index) => (

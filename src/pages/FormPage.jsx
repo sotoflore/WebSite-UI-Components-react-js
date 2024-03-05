@@ -9,8 +9,10 @@ const FormPage = () => {
         <div className="bg-white px-8 py-4 rounded-xl border-2 border-gray-300 shadow">
             <Title title="Formularios"/>
             <p className='py-2'>
-                Una gran variedad de ejemplos de alertas disponibles hechas con Tailwindin CSS, puedes personalizar según tus necesidades específicas
-                y usarlo en tus proyectos web.
+                Los formularios son elementos cruciales en cualquier sitio web o aplicación, 
+                utilizados para recopilar información, interactuar con los usuarios y facilitar 
+                procesos como el registro y la compra. Nuestros componentes de formularios están 
+                diseñados para ser flexibles, accesibles y fáciles de integrar en cualquier proyecto.
             </p>
         </div>
         <Form/>
