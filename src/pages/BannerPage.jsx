@@ -1,6 +1,7 @@
 import ContentContainer from "../components/container/ContentContainer";
 import Title from "../components/container/Title";
 import Banner from "../components/sub-components/banners/Banner";
+import BannerApp from "../components/sub-components/banners/BannerApp";
 
 const BannerPage = () => {
   return (
@@ -14,6 +15,7 @@ const BannerPage = () => {
                 atractivos y fáciles de integrar en cualquier proyecto.
             </p>
         </div>
+        <BannerApp/>
         <Banner/>
     </ContentContainer>
   )

@@ -1,7 +1,9 @@
 import ContentContainer from '../components/container/ContentContainer';
 import Title from '../components/container/Title';
 import Form from '../components/sub-components/forms/Form';
+import FormLogin from '../components/sub-components/forms/FormLogin';
 import FormRegister from '../components/sub-components/forms/FormRegister';
+import FormWelcome from '../components/sub-components/forms/FormWelcome';
 
 const FormPage = () => {
   return (
@@ -15,6 +17,8 @@ const FormPage = () => {
                 diseñados para ser flexibles, accesibles y fáciles de integrar en cualquier proyecto.
             </p>
         </div>
+        <FormLogin/>
+        <FormWelcome/>
         <Form/>
         <FormRegister/>
     </ContentContainer>

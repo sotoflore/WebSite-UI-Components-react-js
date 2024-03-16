@@ -6,15 +6,15 @@ const Sidebar = () => {
     const paths = [
         { to: "introduccion", label: "Introduccion", quantity: "0"},
         { to: "alertas", label: "Alerts", quantity: "4" },
-        { to: "banners", label: "Banners", quantity: "1" },
+        { to: "banners", label: "Banners", quantity: "2" },
         { to: "buttons", label: "Buttons", quantity: "4" },
         { to: "button-group", label: "Button Group", quantity: "2" },
-        { to: "card", label: "Cards", quantity: "4" },
-        { to: "forms", label: "Forms", quantity: "2" },
+        { to: "card", label: "Cards", quantity: "6" },
+        { to: "forms", label: "Forms", quantity: "4" },
         { to: "pagination", label: "Pagination", quantity: "2" },
         { to: "navbar", label: "Navbar", quantity: "2" },
         { to: "spinners", label: "Spinners", quantity: "2" },
-        { to: "testimonial", label: "Testimonial", quantity: "3" },
+        { to: "testimonial", label: "Testimonial", quantity: "4" },
     ];
    
     return(

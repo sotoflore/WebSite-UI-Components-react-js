@@ -1,7 +1,7 @@
 import ComponentCardAndCode from "../../container/ComponentCardAndCode";
 import CodeBlock from "../../code-block/CodeBlock";
 
-const ButtonIcon = () => {
+const Form = () => {
 
     const code = `
     <form class="space-y-6 shadow-2xl border border-gray-300 w-1/2 p-5 rounded-lg">
@@ -59,4 +59,4 @@ const ButtonIcon = () => {
         </ComponentCardAndCode>
     )
 }
-export default ButtonIcon;
+export default Form;

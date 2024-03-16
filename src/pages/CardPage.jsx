@@ -1,6 +1,8 @@
 import ContentContainer from '../components/container/ContentContainer';
 import Title from '../components/container/Title';
 import Card from '../components/sub-components/cards/Card';
+import CardPricing from '../components/sub-components/cards/CardPricing';
+import CardHover from '../components/sub-components/cards/CardHover';
 import CardProduct from '../components/sub-components/cards/CardProduct';
 import CardProfile from '../components/sub-components/cards/CardProfile';
 import TestimonialText from '../components/sub-components/testimonials/TestimonialText';
@@ -17,6 +19,8 @@ const CardPage = () => {
                 en diversos contextos como tarjetas de productos, perfiles, de blogs, entre otros.
             </p>
         </div>
+        <CardPricing/>
+        <CardHover/>
         <Card/>
         <CardProduct/>
         <CardProfile/>

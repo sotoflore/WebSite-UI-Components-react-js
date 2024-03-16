@@ -1,5 +1,6 @@
 import ContentContainer from "../components/container/ContentContainer";
 import Title from "../components/container/Title";
+import TestimonialGradient from "../components/sub-components/testimonials/TestimonialGradient";
 import TestimonialSquare from "../components/sub-components/testimonials/TestimonialSquare";
 import TestimonialStar from "../components/sub-components/testimonials/TestimonialStar";
 import TestimonialText from "../components/sub-components/testimonials/TestimonialText";
@@ -15,6 +16,7 @@ const TestimonialPage = () => {
                 mostrarlas de manera atractiva en tu sitio web.
             </p>
         </div>
+        <TestimonialGradient/>
         <TestimonialSquare/>
         <TestimonialStar/>
         <TestimonialText/>
