@@ -4,6 +4,7 @@ import Title from "../components/container/Title";
 import ButtonPayment from "../components/sub-components/buttons/ButtonPayment";
 import ButtonPrimary from "../components/sub-components/buttons/ButtonPrimary";
 import ButtonLoading from "../components/sub-components/buttons/ButtonLoading";
+import ButtonHover from "../components/sub-components/buttons/ButtonHover";
 
 const ButtonPage = () => {
   return (
@@ -17,6 +18,7 @@ const ButtonPage = () => {
                 accesibles y fáciles de integrar en cualquier proyecto.
             </p>
         </div>
+        <ButtonHover/>
         <ButtonIcon/>
         <ButtonPayment/>
         <ButtonPrimary/>

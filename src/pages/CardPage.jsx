@@ -6,6 +6,8 @@ import CardHover from '../components/sub-components/cards/CardHover';
 import CardProduct from '../components/sub-components/cards/CardProduct';
 import CardProfile from '../components/sub-components/cards/CardProfile';
 import TestimonialText from '../components/sub-components/testimonials/TestimonialText';
+import CardProductTwo from '../components/sub-components/cards/CardProductTwo';
+import CardBlog from '../components/sub-components/cards/CardBlog';
 
 const CardPage = () => {
   return (
@@ -19,6 +21,8 @@ const CardPage = () => {
                 en diversos contextos como tarjetas de productos, perfiles, de blogs, entre otros.
             </p>
         </div>
+        <CardBlog/>
+        <CardProductTwo/>
         <CardPricing/>
         <CardHover/>
         <Card/>
