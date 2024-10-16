@@ -13,6 +13,9 @@ Descubre una colección completa de componentes de interfaz de usuario (UI) list
 - **React Router DOM**: Gestión de rutas para la navegación dentro de la aplicación.
 - **TailwindCSS**
 - **Flowbite**
+- **Aos**
+- **React Icons**
+- **React Syntax Highlighter**
 
 ## Instalación
 1. Clona el repositorio:
