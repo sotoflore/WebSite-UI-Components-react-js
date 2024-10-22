@@ -20,7 +20,7 @@ Descubre una colección completa de componentes de interfaz de usuario (UI) list
 ## Instalación
 1. Clona el repositorio:
 ```bash
-https://github.com/sotoflore/WebSite-UI-Components-react-js
+git clone https://github.com/sotoflore/WebSite-UI-Components-react-js
 ```
 2. Navega al directorio del proyecto:
 ```bash
